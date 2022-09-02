@@ -10,3 +10,4 @@ The 7-movethatfile script moves the file betty into the my_first_directory
 The 8-firstdelete script deletes betty file
 The 9-firstdirdeletion deletes the subdirectory my_first_directory
 The 10-back sccript changes directory to the previous directory
+The 11-lists script cont..
