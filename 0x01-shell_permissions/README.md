@@ -16,3 +16,4 @@ The 100-change_owner_and_group script cont ..
 The 101-symbolic_link_permissions script cont..
 The 102-if_only script cont..
 The 103-Star_Wars script cont..
+The 12-file_type  script prints the file type of iamafile in the tmp directory
