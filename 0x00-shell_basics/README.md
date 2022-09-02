@@ -15,3 +15,4 @@ The 13-symbolic_link script creates a link __ls__ for the /bin/ls file
 The 14-copy_html script copies .html files to the parent directory
 The 100-lets_move script moves files beginning with uppercase letters into the tmp/u directory
 The 101-clean_emacs script deletes all files that end with ~
+The 102-tree script creates multiple directories in one line
