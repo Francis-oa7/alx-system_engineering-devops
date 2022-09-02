@@ -5,3 +5,4 @@ The 3-new_owner script changes owner of the file hello to betty
 The 4-empty script creates an empty file called hello
 The 5-execute script adds execute permission to the owner of the hello file
 The 6-multiple_permissions script changes permissions to the hello file for user, group owner and others
+The 7-everybody script to be cont..
