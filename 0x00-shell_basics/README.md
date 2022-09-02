@@ -17,3 +17,4 @@ The 100-lets_move script moves files beginning with uppercase letters into the t
 The 101-clean_emacs script deletes all files that end with ~
 The 102-tree script creates multiple directories in one line
 The 102-tree script prints
+The school.mgc script is a magic file
