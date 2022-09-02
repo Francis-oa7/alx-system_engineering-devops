@@ -12,3 +12,4 @@ The 9-firstdirdeletion deletes the subdirectory my_first_directory
 The 10-back sccript changes directory to the previous directory
 The 11-lists script cont..
 The 13-symbolic_link script creates a link __ls__ for the /bin/ls file
+The 14-copy_html script copies .html files to the parent directory
