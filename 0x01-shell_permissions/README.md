@@ -8,3 +8,4 @@ The 6-multiple_permissions script changes permissions to the hello file for user
 The 7-everybody script to be cont..
 The 8-James_Bond script cont..
 The 9-John_Doe script cont..
+The 10-mirror_permissions script cont ..
