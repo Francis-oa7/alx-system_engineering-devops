@@ -10,3 +10,4 @@ The 8-James_Bond script cont..
 The 9-John_Doe script cont..
 The 10-mirror_permissions script cont ..
 The 11-directories_permissions script cont..
+The 12-directory_permissions script cont..
