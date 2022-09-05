@@ -18,3 +18,4 @@ The 17 script prints lines without bin in the file
 The 18 script prints line beginning with a letter
 The 19 script replaces letters
 The 20 script removes all ocurrences of c and C
+The 21 script reverses input
