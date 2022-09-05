@@ -17,3 +17,4 @@ The 16 script prints files with root in it and the next 3 lines
 The 17 script prints lines without bin in the file
 The 18 script prints line beginning with a letter
 The 19 script replaces letters
+The 20 script removes all ocurrences of c and C
