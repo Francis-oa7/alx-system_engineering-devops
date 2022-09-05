@@ -12,3 +12,4 @@ The 11-directories script count the number of directories int he working directo
 The 12-newest_files script prints the last 10 newest files in the workinfg directory
 The 13-unique script print only inputs that appear once
 The 14-finthatword script displays lines cotaining root
+The script 15 count number of lines in the file that has bin in it
