@@ -7,3 +7,4 @@ The 5-firstlines script prints the first 10 lines
 The 6-third_line script prints the third line in the file
 The 8-cwd_state script redirects output of ls -la cmd into a file
 The 9-duplicate_last_line script duplicates the lasy line of the file
+The 10-no_more_js script delete files with .js extension
