@@ -9,3 +9,4 @@ The 8-cwd_state script redirects output of ls -la cmd into a file
 The 9-duplicate_last_line script duplicates the lasy line of the file
 The 10-no_more_js script delete files with .js extension
 The 11-directories script count the number of directories int he working directory
+The 12-newest_files script prints the last 10 newest files in the workinfg directory
