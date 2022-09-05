@@ -13,3 +13,4 @@ The 12-newest_files script prints the last 10 newest files in the workinfg direc
 The 13-unique script print only inputs that appear once
 The 14-finthatword script displays lines cotaining root
 The script 15 count number of lines in the file that has bin in it
+The 16 script prints files with root in it and the next 3 lines
