@@ -21,3 +21,4 @@ The 20 script removes all ocurrences of c and C
 The 21 script reverses input
 The 22 script displays users and their home directories sorted by users
 Empty casks
+Gif script
