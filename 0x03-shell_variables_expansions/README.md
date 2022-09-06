@@ -15,3 +15,4 @@ The 13 script prints num with two decimal places
 The 14 script convert decimals to base 16
 The 14 script converts base 10 nums to base 16
 The 15 script encodes and decodes using the rot13 encryption
+The 16 script prints every other line from the input in a new line
