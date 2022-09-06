@@ -6,3 +6,4 @@ The 4 script prints the environment variables
 The 5 script prints local and env vars
 The script 6 creates a local var
 The 7 script creates a global var
+The 8 script adds 128 to a variable
