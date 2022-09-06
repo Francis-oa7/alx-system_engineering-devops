@@ -8,3 +8,4 @@ The script 6 creates a local var
 The 7 script creates a global var
 The 8 script adds 128 to a variable
 The 9 script divides POWER by DIVIDE var
+The 10 script computes BREATH exponent LOVE
